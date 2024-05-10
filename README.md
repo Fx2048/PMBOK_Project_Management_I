@@ -8,7 +8,7 @@
 The Project Management Body of Knowledge (PMBOK) is a set of standard terminology and guidelines (a body of knowledge) for project management. The body of knowledge evolves over time and is presented in A Guide to the Project Management Body of Knowledge (PMBOK Guide), a book whose seventh edition was released in 2021. 
 
 ````
-
+## Books & Papers
 * A Risk Intelligent View of the 
 Competitive Ecosystem(2017). Wbcsd.org. Recuperado el 10 de mayo de 2024, de https://docs.wbcsd.org/2017/01/WBCSD_Risk_Publication_2016.pdf
 [PDF FILE AMBIENTAL FACTORS](https://github.com/Fx2048/PMBOK_Project_Management_I/blob/main/Bibliography_Files/WBCSD_Risk_Publication_2016.pdf)
@@ -31,16 +31,16 @@ Competitive Ecosystem(2017). Wbcsd.org. Recuperado el 10 de mayo de 2024, de htt
 
 
 
-VIDEO RESOURCES:
+## VIDEO RESOURCES:
 
 * AQassim Finance And Engineering [@AQassimFinance]. (2022, junio 14). PMP course: 0-8 - expert judgment - skills & techniques in project management. Youtube. https://www.youtube.com/watch?v=M2rON-qbqE0
 * CNBC [@CNBC]. (2024, mayo 1). Why hundreds of U.s. banks are at risk of failing. Youtube. https://www.youtube.com/watch?v=8BfG20F2I3E
 
-# TEMPLATES FROM QUALITATIVE RISK ANALYSIS
+## TEMPLATES FROM QUALITATIVE RISK ANALYSIS
 [TEMPLATE PDF FILE ]
 (https://github.com/Fx2048/PMBOK_Project_Management_I/blob/main/Bibliography_Files/260505386-Risk-Register-Example.pdf)
 
-# APK DEMO FREE
+## APK DEMO FREE
 
 Tracker networks. (2020). Gartnerdigitalmarkets.com. Recuperado el 10 de mayo de 2024, de https://info.gartnerdigitalmarkets.com/tracker-networks-gdm-lp/?category=ERM&utm_source=GetApp
 
