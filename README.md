@@ -37,12 +37,12 @@ Competitive Ecosystem(2017). Wbcsd.org. Recuperado el 10 de mayo de 2024, de htt
 * CNBC [@CNBC]. (2024, mayo 1). Why hundreds of U.s. banks are at risk of failing. Youtube. https://www.youtube.com/watch?v=8BfG20F2I3E
 
 ## TEMPLATES FROM QUALITATIVE RISK ANALYSIS
-[TEMPLATE PDF FILE ]
+* [TEMPLATE PDF FILE ]
 (https://github.com/Fx2048/PMBOK_Project_Management_I/blob/main/Bibliography_Files/260505386-Risk-Register-Example.pdf)
 
 ## APK DEMO FREE
 
-Tracker networks. (2020). Gartnerdigitalmarkets.com. Recuperado el 10 de mayo de 2024, de https://info.gartnerdigitalmarkets.com/tracker-networks-gdm-lp/?category=ERM&utm_source=GetApp
+* Tracker networks. (2020). Gartnerdigitalmarkets.com. Recuperado el 10 de mayo de 2024, de https://info.gartnerdigitalmarkets.com/tracker-networks-gdm-lp/?category=ERM&utm_source=GetApp
 
 
 
