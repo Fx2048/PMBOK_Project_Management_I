@@ -1,3 +1,6 @@
+# WELCOME TO MY REPOSITORY, DEAR FUTURISTIC STEM COMMUNITY! 😁👨🏽‍🔬🧑🏽‍💻🧬
+## Explore our bibliography from PMBOK exposition we'll realize for you! (link in Description) we hope you love it! 🚀❤️‍🔥💙💯🌎😉
+
 ![image](https://github.com/Fx2048/PMBOK_Project_Management_I/assets/131219987/b44423e0-3759-4f22-a523-ad5459eb23bc)
 
 # BIBLIOGRAPHY QUALITATIVE RISK ANALYSIS
