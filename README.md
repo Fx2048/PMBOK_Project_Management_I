@@ -5,6 +5,7 @@ The Project Management Body of Knowledge (PMBOK) is a set of standard terminolog
 
 * A Risk Intelligent View of the 
 Competitive Ecosystem(2017). Wbcsd.org. Recuperado el 10 de mayo de 2024, de https://docs.wbcsd.org/2017/01/WBCSD_Risk_Publication_2016.pdf
+[PDF FILE DOCUMENTATION IN REPOSITORY](https://github.com/Fx2048/PMBOK_Project_Management_I/blob/main/Bibliography_Files/WBCSD_Risk_Publication_2016.pdf)
 
 * AIRPORT RAMP RISK ANALYSIS AT HALIM PERDANAKUSUMA(jULY,2017). Researchgate.net. Recuperado el 10 de mayo de 2024, de https://www.researchgate.net/publication/318557087_AIRPORT_RAMP_RISK_ANALYSIS_AT_HALIM_PERDANAKUSUMA
 
