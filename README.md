@@ -9,7 +9,7 @@ Competitive Ecosystem(2017). Wbcsd.org. Recuperado el 10 de mayo de 2024, de htt
 
 * AIRPORT RAMP RISK ANALYSIS AT HALIM PERDANAKUSUMA(jULY,2017). Researchgate.net. Recuperado el 10 de mayo de 2024, de https://www.researchgate.net/publication/318557087_AIRPORT_RAMP_RISK_ANALYSIS_AT_HALIM_PERDANAKUSUMA
 
-[PDF FILE EXAMPLE FROM STUDY CASE](https://github.com/Fx2048/PMBOK_Project_Management_I/blob/main/Bibliography_Files/AIRPORT_RAMP_RISK_ANALYSIS_AT_HALIM_PERDANAKUSUMA.pdf)
+ [PDF FILE EXAMPLE FROM STUDY CASE](https://github.com/Fx2048/PMBOK_Project_Management_I/blob/main/Bibliography_Files/AIRPORT_RAMP_RISK_ANALYSIS_AT_HALIM_PERDANAKUSUMA.pdf)
 
 * Duka, Anastasiia Petrovna. "PARADIGM OF INTEGRATED RISK MANAGEMENT." SCIENTIFIC BULLETIN OF POLISSIA 2, no. 4(12) (2017): 131–36. http://dx.doi.org/10.25140/2410-9576-2017-2-4(12)-131-136.
 
