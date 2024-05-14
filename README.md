@@ -8,10 +8,10 @@
 The Project Management Body of Knowledge (PMBOK) is a set of standard terminology and guidelines (a body of knowledge) for project management. The body of knowledge evolves over time and is presented in A Guide to the Project Management Body of Knowledge (PMBOK Guide), a book whose seventh edition was released in 2021. 
 
 ````
-## QUIZZ SURPRISE!
+## QUIZZ SURPRISE!🪙🪙🪙
 [QUIZZ UNITY 11.3](https://quizlet.com/832300146/pmi-113-perform-qualitative-risk-analysis-quiz-flash-cards/?i=4kbsj7&x=1jqt)
 
-## GAME RISK MATRIX!
+## GAME RISK MATRIX! 🏓🎮🎳
 [GAME RISK MATRIX](https://miro.com/welcomeonboard/b1ZhdlBqNnJZODl1UWl6YkFaVDFLSWhSRjB2bjV6eUpiSTdCWXphektTcXQ2bmJaQVlPNjhaQUR5YmY3bFNHaHwzNDU4NzY0NTI1OTM1MjM2OTMwfDI=?share_link_id=192293346112)
 
 ## Books & Papers
