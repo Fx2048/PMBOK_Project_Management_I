@@ -3,18 +3,18 @@
 
 ![image](https://github.com/Fx2048/PMBOK_Project_Management_I/assets/131219987/b44423e0-3759-4f22-a523-ad5459eb23bc)
 
-# BIBLIOGRAPHY QUALITATIVE RISK ANALYSIS
+# BIBLIOGRAPHY QUALITATIVE RISK ANALYSIS 😯
 ````
 The Project Management Body of Knowledge (PMBOK) is a set of standard terminology and guidelines (a body of knowledge) for project management. The body of knowledge evolves over time and is presented in A Guide to the Project Management Body of Knowledge (PMBOK Guide), a book whose seventh edition was released in 2021. 
 
 ````
-## QUIZZ SURPRISE!🪙🪙🪙
+## QUIZZ SURPRISE!🪙🪙🪙🥳
 [QUIZZ UNITY 11.3](https://quizlet.com/832300146/pmi-113-perform-qualitative-risk-analysis-quiz-flash-cards/?i=4kbsj7&x=1jqt)
 
-## GAME RISK MATRIX! 🏓🎮🎳
+## GAME RISK MATRIX! 🏓🎮🎳😃
 [GAME RISK MATRIX](https://miro.com/welcomeonboard/b1ZhdlBqNnJZODl1UWl6YkFaVDFLSWhSRjB2bjV6eUpiSTdCWXphektTcXQ2bmJaQVlPNjhaQUR5YmY3bFNHaHwzNDU4NzY0NTI1OTM1MjM2OTMwfDI=?share_link_id=192293346112)
 
-## Books & Papers
+## Books & Papers 📖🧠🤓
 * A Risk Intelligent View of the 
 Competitive Ecosystem(2017). Wbcsd.org. Recuperado el 10 de mayo de 2024, de https://docs.wbcsd.org/2017/01/WBCSD_Risk_Publication_2016.pdf
 [PDF FILE AMBIENTAL FACTORS](https://github.com/Fx2048/PMBOK_Project_Management_I/blob/main/Bibliography_Files/WBCSD_Risk_Publication_2016.pdf)
