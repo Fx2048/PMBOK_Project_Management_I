@@ -8,6 +8,12 @@
 The Project Management Body of Knowledge (PMBOK) is a set of standard terminology and guidelines (a body of knowledge) for project management. The body of knowledge evolves over time and is presented in A Guide to the Project Management Body of Knowledge (PMBOK Guide), a book whose seventh edition was released in 2021. 
 
 ````
+## QUIZZ SURPRISE!
+[QUIZZ UNITY 11.3](https://quizlet.com/832300146/pmi-113-perform-qualitative-risk-analysis-quiz-flash-cards/?i=4kbsj7&x=1jqt)
+
+## GAME RISK MATRIX!
+[GAME RISK MATRIX](https://miro.com/welcomeonboard/b1ZhdlBqNnJZODl1UWl6YkFaVDFLSWhSRjB2bjV6eUpiSTdCWXphektTcXQ2bmJaQVlPNjhaQUR5YmY3bFNHaHwzNDU4NzY0NTI1OTM1MjM2OTMwfDI=?share_link_id=192293346112)
+
 ## Books & Papers
 * A Risk Intelligent View of the 
 Competitive Ecosystem(2017). Wbcsd.org. Recuperado el 10 de mayo de 2024, de https://docs.wbcsd.org/2017/01/WBCSD_Risk_Publication_2016.pdf
@@ -27,7 +33,7 @@ Competitive Ecosystem(2017). Wbcsd.org. Recuperado el 10 de mayo de 2024, de htt
 * Wauters, E., F. van Winsen, Y. de Mey, and L. Lauwers. "Risk perception, attitudes towards risk and risk management: evidence and implications." Agricultural Economics (Zemědělská ekonomika) 60, No. 9 (September 30, 2014): 389–405. http://dx.doi.org/10.17221/176/2013-agricecon.
 
 * Global Risks Report 2023(2023). Weforum.org. Recuperado el 10 de mayo de 2024, de https://www3.weforum.org/docs/WEF_Global_Risks_Report_2023.pdf
-  [RISK REPORT PDF FILE ](https://github.com/Fx2048/PMBOK_Project_Management_I/blob/main/Bibliography_Files/WEF_Global_Risks_Report_2023.pdf)
+  [RISK REPORT PDF FILE](https://github.com/Fx2048/PMBOK_Project_Management_I/blob/main/Bibliography_Files/WEF_Global_Risks_Report_2023.pdf)
 
 
 
@@ -37,8 +43,7 @@ Competitive Ecosystem(2017). Wbcsd.org. Recuperado el 10 de mayo de 2024, de htt
 * CNBC [@CNBC]. (2024, mayo 1). Why hundreds of U.s. banks are at risk of failing. Youtube. https://www.youtube.com/watch?v=8BfG20F2I3E
 
 ## TEMPLATES FROM QUALITATIVE RISK ANALYSIS
-* [TEMPLATE PDF FILE ]
-(https://github.com/Fx2048/PMBOK_Project_Management_I/blob/main/Bibliography_Files/260505386-Risk-Register-Example.pdf)
+* [TEMPLATE PDF FILE ](https://github.com/Fx2048/PMBOK_Project_Management_I/blob/main/Bibliography_Files/260505386-Risk-Register-Example.pdf)
 
 ## APK DEMO FREE
 
